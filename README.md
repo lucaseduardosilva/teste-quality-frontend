@@ -55,3 +55,28 @@ Ao preencher o campo **CEP**, os seguintes dados são buscados na API pública:
 - Bairro
 - Cidade (`localidade`)
 - UF
+
+---
+
+## ▶️ Como executar o projeto
+
+### 📥 1. Clone o repositório
+
+```bash
+git clone https://github.com/lucaseduardosilva/teste-quality-frontend
+cd teste-quality-frontend
+```
+
+### 📦 2. Instale as dependências
+
+```bash
+npm install
+```
+
+### 🚀 3. Inicie o projeto
+
+```bash
+npm start
+```
+
+A API será iniciada em: http://localhost:3000
