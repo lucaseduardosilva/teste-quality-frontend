@@ -55,9 +55,3 @@ Ao preencher o campo **CEP**, os seguintes dados são buscados na API pública:
 - Bairro
 - Cidade (`localidade`)
 - UF
-
-**Exemplo de consulta:**
-
-```bash
-https://viacep.com.br/ws/01001000/json/
-```
